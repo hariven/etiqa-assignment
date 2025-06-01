@@ -1,6 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Index from "./Index";
-// import AnimeDetailPage from "./DetailPage";
 
 function App() {
   return (
